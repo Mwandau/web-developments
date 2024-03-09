@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(166, 248, 14);
+}
+
+
+nav{
+    background-color: rgb(77, 2, 2);
+    text-align: center;
+color: rgb(255, 253, 253);
+text-decoration: none;
+list-style-type: none;
+top:0;
+z-index:999;
+position:sticky;
+}
+
+ul{
+    list-style-type: none;
+}
+li {
+ display: inline-block;
+}
+
+body{
+    background: url(pic7.jpg);
+}
+.sidebar{
+
+    float: right;
+    align-content: left;
+    padding: flex;
+    text-align: right;
+    color: rgb(252, 252, 252);
+    background-color: rgb(0, 9, 128);
+    width: 200px;
+    height: 300px;
+    display: flex;
+
+
+    orientation: potrait;
+}
+
+.first{
+    border: none;
+    text-align: left;
+    background-color: rgb(6, 78, 3);
+    width: 350px;
+    height: 100px;
+}
+
+.second{
+    margin-top: -90px;
+    float: right;
+    border: none;
+    padding: center;
+    text-align: center;
+   background-color: rgb(7, 97, 22);
+   width: 350px;
+   height: 100px;
+}
+
+.third{
+    margin-top: 60px;
+    border: none;
+    text-align: left;
+    background-color: rgb(2, 105, 19);
+    width: 350px;
+    height: 100px;
+}
+
+.fourth{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: -90px;
+    float: right;
+    border: none;
+    text-align: center;
+    background-color: rgb(11, 99, 18);
+    width: 350px;
+    height: 100px;
+}
+
+footer{
+    
+    margin-bottom: 1px;
+    padding: 30px;
+    display: justify contents;
+    height: 400px;
+    font-size: larger;
+    text-emphasis: strong;
+    text-align: center;
+    text-decoration: navajowhite;
+    display: flex;
+    padding: center;
+    text-align: center;
+    background-color: rgba(201, 9, 9, 0.808);
+    bottom: auto;
+    width: 1290px;
+height: 80px;
+}
+
+button{
+    background-color: aqua;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 30px;
+}
+.name{
+
+}
